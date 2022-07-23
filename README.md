@@ -6,11 +6,14 @@ Predicting Credit Risk with different models.
 Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
 - Naive Random Oversampling
-1NRO
+![Alt text](/1NRO.png "Image")
+
 - SMOTE Oversampling
-2SO
+![Alt text](/2SO.png "Image")2SO
+
 - Cluster Centroids
-3CCU
+![Alt text](/3CCU.png "Image")
+
 - SMOTEENN
 4S
 - Balanced Random Forest Classifier
