@@ -31,4 +31,4 @@ Results: Using bulleted lists, describe the balanced accuracy scores and the pre
 
 Summary
 
-While analyzing the credit risk with the different models, the best one to use to predict credit risk is the "Easy Ensemble AdaBoost Classifier" since it has the highest score (0.08) for high risk loans. 
+While analyzing the credit risk with the different models, the best one to use to predict credit risk is the "Easy Ensemble AdaBoost Classifier" since it has the highest score (0.09) for high risk loans. 
