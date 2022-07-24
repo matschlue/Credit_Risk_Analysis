@@ -29,4 +29,6 @@ Results: Using bulleted lists, describe the balanced accuracy scores and the pre
 
 ![Alt text](/6EEAC.png "Image")
 
-Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+Summary
+
+While analyzing the credit risk with the different models, the best one to use to predict credit risk is the "Easy Ensemble AdaBoost Classifier" since it has the highest score (0.08) for high risk loans. 
